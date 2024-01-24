@@ -16,4 +16,10 @@
 # #' @importFrom stats aggregate approx approxfun binomial cov dist fitted glm kmeans lm median na.omit optim predict quantile rnorm runif spline var sd poly weighted.mean cor dunif
 # #' @importFrom utils head tail
 # #' @importFrom MASS isoMDS mvrnorm
+
+#' @keywords internal
+"_PACKAGE"
+
+## usethis namespace: start
+## usethis namespace: end
 NULL
