@@ -1,4 +1,4 @@
-882ef968e041e3d02c896b0cc90fbda2 *DESCRIPTION
+7c16b0dfd9609c201ffc7203a8bb7f2d *DESCRIPTION
 6984cc70c7715b71241c8cab654ce504 *NAMESPACE
 18c0bb72490ba4ef706a4215ba7644d6 *R/L1Depth.R
 1399d10978b2fa0aef931550f64efbad *R/MHD-package.R
@@ -10,7 +10,7 @@ e003cf7961963b0b0c644c8a56c81e5d *R/jiggle.R
 d41d8cd98f00b204e9800998ecf8427e *R/manifold.R
 588703f8352d7f0cb9e45b9440170660 *R/sysdata.rda
 5565f63dbe28880d352d84f28c9b5fab *R/torusFunc.R
-7080893e02c49cd296d4424b9be55069 *build/partial.rdb
+f61db891eb928123aba4412ca322f508 *build/partial.rdb
 89c7176fe32f5e39ed073e9f1aa471db *inst/testdata/SPD4.RData
 2f3ce98c890e5f9905f40ed7df9de3d0 *man/MHD.Rd
 6115c3f2e1a44bdeefc222f13253cb1c *src/MHD.cpp
